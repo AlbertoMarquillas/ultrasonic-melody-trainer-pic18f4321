@@ -1,0 +1,23 @@
+# Common
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.code-workspace
+*.log
+logs/
+.cache/
+tmp/
+
+# Build artifacts
+build/
+dist/
+
+# MPLAB X project folders (private configs + compiled outputs)
+nbproject/private/
+*.X/nbproject/private/
+*.X/build/
+*.X/dist/
+
+# Editor backups
+*~
